@@ -1,0 +1,4 @@
+ git remote add origin https://github.com/backslider069/github-upload.git
+ git add .
+ git commit -m "innitializing repository"
+ git push -u origing main
